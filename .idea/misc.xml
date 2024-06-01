@@ -4,6 +4,8 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/spring-security/pom.xml" />
+        <option value="$PROJECT_DIR$/Hibernate/pom.xml" />
+        <option value="$PROJECT_DIR$/HibernateJDBC/pom.xml" />
       </list>
     </option>
   </component>

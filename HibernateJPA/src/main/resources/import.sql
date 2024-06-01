@@ -1,0 +1,1 @@
+INSERT INTO Portfolio (id, StockName, Category, holdings) VALUES (1, 'Hdfcbank', 'bank', 100);
